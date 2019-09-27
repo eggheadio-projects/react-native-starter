@@ -1,6 +1,9 @@
 # [Fundamentals of React Native Video](https://egghead.io/courses/fundamentals-of-react-native-video)
 
-<center><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/133/full/EGH_ReactVideo_Final.png" width="200"></center>
+<p align="center">
+    <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/133/full/EGH_ReactVideo_Final.png" width="200">
+</p>
+
 React Native Video is a community supported video element for React Native. It allows for remote loading of videos and also works with the React Native asset management system to load videos. Having a flexible video component is essential to developing and enhancing your application. Like many React Native elements, the video element is very basic and doesn't ship with anything besides a flexible API. This allows you to develop the exact layout, controls, and custom overlays to match your application.
 
 In this course we'll take a look at a basic setup. Then explore the different ways we can load and show videos. We'll show how to use a few of the custom callbacks to overlay errors and buffering elements. Because there are no controls shipped with react-native-video we'll show how to write custom video controls and animate them when the video has not been interacted with.
@@ -104,7 +107,9 @@ Type source `$HOME/.bash_profile` to load the config into your current shell. Ve
 
 Open the "AVD Manager" from within Android Studio. Look for an icon that looks like this:
 
-<center><img width="50" src="https://facebook.github.io/react-native/docs/assets/GettingStartedAndroidStudioAVD.png"/></center>
+<p align="center">
+    <img width="50" src="https://facebook.github.io/react-native/docs/assets/GettingStartedAndroidStudioAVD.png"/>
+</p>
 
 If you have just installed Android Studio, you will likely need to create a new AVD. Select "Create Virtual Device...", then pick any Phone from the list and click "Next", then select the Pie API Level 28 image.
 
