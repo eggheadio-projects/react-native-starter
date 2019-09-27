@@ -26,6 +26,17 @@ Everything being taught in the course is still valid, but there have been archit
 
 Using the latest version of the react-native-cli I generated a new project. I have created branches for each lesson as I've followed along with them. 
 
+In order for `react-native-video` to work the CocoaPods package manager needs to be installed. 
+```
+brew install cocoapods
+```
+
+In the `/ios` directory run the following
+```
+pod init
+pod install
+```
+
 ## React Native Setup
 Setup instructions taken from React Native's ["getting started" docs.](https://facebook.github.io/react-native/docs/getting-started)
 
