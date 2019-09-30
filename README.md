@@ -1,17 +1,13 @@
-# [Fundamentals of React Native Video](https://egghead.io/courses/fundamentals-of-react-native-video)
+# [egghead.io react native starter](https://egghead.io/browse/frameworks/react-native)
 
 <p align="center">
-    <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/133/full/EGH_ReactVideo_Final.png" width="200">
+    <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/242/full/EGH_ReactTakeoutbox_.png" width="200">
 </p>
 
-React Native Video is a community supported video element for React Native. It allows for remote loading of videos and also works with the React Native asset management system to load videos. Having a flexible video component is essential to developing and enhancing your application. Like many React Native elements, the video element is very basic and doesn't ship with anything besides a flexible API. This allows you to develop the exact layout, controls, and custom overlays to match your application.
-
-In this course we'll take a look at a basic setup. Then explore the different ways we can load and show videos. We'll show how to use a few of the custom callbacks to overlay errors and buffering elements. Because there are no controls shipped with react-native-video we'll show how to write custom video controls and animate them when the video has not been interacted with.
-
-Finally we'll cover a few common paradigms found in the wild. Including repeating background cover videos, auto-playing videos when they scroll onto the screen and auto-stopping them when they are scrolled away from.
+React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.
 
 ## Table of Contents
-- [Fundamentals of React Native Video](#fundamentals-of-react-native-video)
+- [egghead.io react native starter](#eggheadio-react-native-starter)
   - [Table of Contents](#table-of-contents)
   - [Update](#update)
   - [React Native Setup](#react-native-setup)
@@ -22,11 +18,11 @@ Finally we'll cover a few common paradigms found in the wild. Including repeatin
     - [Android](#android-1)
 
 ## Update
-Everything being taught in the course is still valid, but there have been architecture changes that have been causing issues for people attempting to learn from it. 
+Everything being taught in this React Native course is still valid, but there have been architecture changes that have been causing issues for people attempting to learn from it. 
 
 Using the latest version of the react-native-cli I generated a new project. I have created branches for each lesson as I've followed along with them. 
 
-In order for `react-native-video` to work the CocoaPods package manager needs to be installed. 
+In order for additional react-native packages to work the CocoaPods package manager needs to be installed. 
 ```
 brew install cocoapods
 ```
