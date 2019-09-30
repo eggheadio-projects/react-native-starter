@@ -1,5 +1,5 @@
 {
-  "name": "ReactNativeVideo",
+  "name": "ReactNativeStarter",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "react": "16.8.1",
-    "react-native": "0.61.1",
-    "react-native-video": "^5.0.2"
+    "react-native": "0.61.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
