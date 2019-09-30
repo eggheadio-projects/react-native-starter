@@ -1,5 +1,4 @@
-# [egghead.io react native starter](https://egghead.io/browse/frameworks/react-native)
-
+<h1 align="center"><a href="https://egghead.io/browse/frameworks/react-native">egghead.io react native starter</a></h1>
 <p align="center">
     <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/242/full/EGH_ReactTakeoutbox_.png" width="200">
 </p>
@@ -7,15 +6,14 @@
 React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.
 
 ## Table of Contents
-- [egghead.io react native starter](#eggheadio-react-native-starter)
-  - [Table of Contents](#table-of-contents)
-  - [Update](#update)
-  - [React Native Setup](#react-native-setup)
-    - [iOS](#ios)
-    - [Android](#android)
-  - [Running the Project](#running-the-project)
-    - [iOS](#ios-1)
-    - [Android](#android-1)
+- [Table of Contents](#table-of-contents)
+- [Update](#update)
+- [React Native Setup](#react-native-setup)
+  - [iOS](#ios)
+  - [Android](#android)
+- [Running the Project](#running-the-project)
+  - [iOS](#ios-1)
+  - [Android](#android-1)
 
 ## Update
 Everything being taught in this React Native course is still valid, but there have been architecture changes that have been causing issues for people attempting to learn from it. 
